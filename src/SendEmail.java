@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class SendEmail {
     public static void main(String[] args) {
-        String sendrmailid = "radov.2011@gmail.com";
+        String sendrmailid = "send email.com";
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Destination mail: ");
         String destmailid = sc.next();
